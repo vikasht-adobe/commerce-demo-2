@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: "https://da.live/edit#/vikasht-adobe/commerce-demo-2"
+    url: https://da.live/#/vikasht-adobe/commerce-demo-2
   
