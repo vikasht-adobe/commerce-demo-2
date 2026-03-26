@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p99952-e1559416.adobeaemcloud.com/content/commerce-demo-2"
+    url: "https://da.live/edit#/vikasht-adobe/commerce-demo-2"
     type: "markup"
     suffix: ".html"
   
